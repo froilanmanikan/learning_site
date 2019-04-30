@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"course_list\tfunction"
+			],
+			[
+				"co",
+				"contrib\tmodule"
+			],
+			[
+				"ch",
+				"CharField\tclass"
+			],
+			[
+				"da",
+				"DateTimeField\tclass"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"Http",
+				"HttpResponse\tclass"
+			],
+			[
+				"process",
+				"process_prop"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "courses/models.py",
+			"settings":
+			{
+				"buffer_size": 283,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "courses/views.py",
+			"settings":
+			{
+				"buffer_size": 271,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "courses/urls.py",
+			"settings":
+			{
+				"buffer_size": 104,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "learning_site/urls.py",
+			"settings":
+			{
+				"buffer_size": 896,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"paga",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/devenv/Pydev/Projects/learning_site",
+		"/C/devenv/Pydev/Projects/learning_site/courses",
+		"/C/devenv/Pydev/Projects/learning_site/courses/migrations",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site"
+	],
+	"file_history":
+	[
+		"/C/devenv/Pydev/Projects/learning_site/courses/tests.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0001_initial.py",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site/settings.py",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site/views.py",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site/urls.py",
+		"/C/devenv/Tools/SublimeText/Data/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/devenv/Pydev/Projects/cerberus_proto/app/db.py",
+		"/C/devenv/Pydev/Projects/cerberus_db_prototype/prototype.py",
+		"/C/devenv/Pydev/Projects/cerberus_proto/app/mysql.py",
+		"/C/devenv/Pydev/Projects/cerberus_proto/app/static/css/bootstrap.css",
+		"/C/devenv/Pydev/Projects/cerberus_proto/app/views.py",
+		"/C/devenv/Pydev/Projects/cerberus_proto/run.py",
+		"/C/devenv/Pydev/Projects/cerberus_proto/server.py",
+		"/C/devenv/Pydev/Projects/cerberus_proto/config.py",
+		"/C/devenv/Pydev/Projects/cerberus_proto/app/templates/content.html",
+		"/C/devenv/Pydev/Projects/cerberus_proto/app/templates/base_flowview.html",
+		"/C/devenv/Pydev/Projects/cerberus_proto/app/templates/base.html",
+		"/C/devenv/Pydev/Projects/cerberus_proto/app/__init__.py",
+		"/C/devenv/Pydev/Projects/cerberus/cerberus/__init__.py",
+		"/C/devenv/Pydev/Projects/cerberus/tracker/views.py",
+		"/C/devenv/Pydev/Projects/cerberus/tracker/urls.py",
+		"/C/devenv/Pydev/Projects/cerberus/cerberus/urls.py",
+		"/C/devenv/Pydev/Projects/cerberus/tracker/models.py",
+		"/C/devenv/Pydev/Projects/cerberus/manage.py",
+		"/C/devenv/Pydev/Projects/cerberus/cerberus/settings.py",
+		"/C/devenv/Pydev/Projects/cerberus/cerberus/wsgi.py",
+		"/C/devenv/Notes/database.notes",
+		"/C/devenv/Pydev/prototype.py",
+		"/D/Pydev/Projects/Cerberus/run.py",
+		"/D/notes/database.notes",
+		"/D/notes/database2.notes",
+		"/D/Pydev/Projects/Cerberus/app/mysql.py",
+		"/D/Pydev/Projects/Cerberus/app/views.py",
+		"/D/Pydev/Projects/Cerberus/server.py",
+		"/D/Pydev/Projects/Cerberus/app/db.py",
+		"/D/notes/database.erp",
+		"/D/Pydev/Projects/Cerberus/app/templates/content.html",
+		"/D/Pydev/Projects/Cerberus/app/templates/base_old.html",
+		"/D/Pydev/Projects/Cerberus/app/templates/base.html",
+		"/D/SublimeText/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/D/Pydev/Projects/demo/demo/helloworld/__init__.py",
+		"/D/Pydev/Projects/demo/demo/helloworld/flows.py",
+		"/D/Pydev/Projects/demo/demo/helloworld/tests.py",
+		"/D/Pydev/Projects/Cerberus/notes/readnotes.txt",
+		"/D/Pydev/Projects/Cerberus/config.py",
+		"/D/SublimeText/Data/Packages/User/Terminal (Windows).sublime-settings",
+		"/D/SublimeText/Data/Packages/User/Terminality.sublime-settings",
+		"/D/SublimeText/Data/Packages/Terminality/Terminality.sublime-settings",
+		"/D/Pydev/Projects/Cerberus/app/static/css/custom.css",
+		"/D/Pydev/Projects/Cerberus.sql",
+		"/D/SublimeText/Data/Packages/User/Gist.sublime-settings",
+		"/E/Pydev/Projects/LotTracker-master-336ba5724565f20f8a7559d2fa45ad7f299f8dde/LotTracker-master-336ba5724565f20f8a7559d2fa45ad7f299f8dde/app/templates/base.html",
+		"/E/Pydev/Projects/pyGlobeReport/app/templates/base.html",
+		"/E/Pydev/Projects/pyGlobeReport/app/static/css/main.css",
+		"/D/Cerberus/app/db.py",
+		"/D/Cerberus/cerberus.py",
+		"/D/Cerberus/app/__init__.py",
+		"/D/Cerberus/app/routes.py",
+		"/C/Users/NuTron/Downloads/cerberus_db (3).sql",
+		"/D/Cerberus/__init__.py",
+		"/D/Cerberus/templates/base.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "courses/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "courses/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "courses/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "learning_site/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								821
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learning site.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
