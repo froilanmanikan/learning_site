@@ -1,6 +1,6 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 
 
 def hello_world(request):
-	return HttpResponse('Hello World 9000')
-	pass
+    return render(request, 'home.html')
+    pass

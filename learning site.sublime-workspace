@@ -4,6 +4,82 @@
 		"selected_items":
 		[
 			[
+				"to",
+				"to_field\tparam"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ti",
+				"titles"
+			],
+			[
+				"__s",
+				"__str__\tfunction"
+			],
+			[
+				"db",
+				"db_column"
+			],
+			[
+				"for",
+				"ForeignKey\tclass"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"url",
+				"urlpatterns\tstatement"
+			],
+			[
+				"s",
+				"staticfiles_urlpatterns\tfunction"
+			],
+			[
+				"u",
+				"urls\tmodule"
+			],
+			[
+				"sts",
+				"staticfiles\tmodule"
+			],
+			[
+				"con",
+				"contrib\tmodule"
+			],
+			[
+				"B",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"STATIC",
+				"STATICFILES_DIRS"
+			],
+			[
+				"cou",
+				"course_list"
+			],
+			[
+				"si",
+				"sites\tmodule"
+			],
+			[
+				"couse",
+				"Course\tclass"
+			],
+			[
+				"site",
+				"site\tinstance"
+			],
+			[
+				"m",
+				"models\tmodule"
+			],
+			[
 				"c",
 				"course_list\tfunction"
 			],
@@ -40,37 +116,19 @@
 	"buffers":
 	[
 		{
-			"file": "courses/models.py",
-			"settings":
-			{
-				"buffer_size": 283,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "courses/views.py",
-			"settings":
-			{
-				"buffer_size": 271,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "courses/urls.py",
 			"settings":
 			{
-				"buffer_size": 104,
+				"buffer_size": 108,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "learning_site/urls.py",
+			"file": "courses/models.py",
 			"settings":
 			{
-				"buffer_size": 896,
+				"buffer_size": 527,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -103,6 +161,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"fil",
+				"File: Locate"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
@@ -143,23 +209,46 @@
 		"show_minimap": false,
 		"show_open_files": false,
 		"show_tabs": false,
-		"side_bar_visible": false,
+		"side_bar_visible": true,
 		"status_bar_visible": false
 	},
 	"expanded_folders":
 	[
 		"/C/devenv/Pydev/Projects/learning_site",
+		"/C/devenv/Pydev/Projects/learning_site/assets",
+		"/C/devenv/Pydev/Projects/learning_site/assets/css",
 		"/C/devenv/Pydev/Projects/learning_site/courses",
 		"/C/devenv/Pydev/Projects/learning_site/courses/migrations",
-		"/C/devenv/Pydev/Projects/learning_site/learning_site"
+		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/__pycache__",
+		"/C/devenv/Pydev/Projects/learning_site/courses/templates",
+		"/C/devenv/Pydev/Projects/learning_site/courses/templates/courses",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site/__pycache__",
+		"/C/devenv/Pydev/Projects/learning_site/templates"
 	],
 	"file_history":
 	[
-		"/C/devenv/Pydev/Projects/learning_site/courses/tests.py",
 		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0001_initial.py",
-		"/C/devenv/Pydev/Projects/learning_site/learning_site/settings.py",
-		"/C/devenv/Pydev/Projects/learning_site/learning_site/views.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0002_step.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/templates/courses/course_list.html",
+		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0003_auto_20190505_2326.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0002_auto_20190505_2321.py",
 		"/C/devenv/Pydev/Projects/learning_site/learning_site/urls.py",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site/views.py",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site/settings.py",
+		"/C/devenv/Pydev/Projects/learning_site/templates/layout.html",
+		"/C/devenv/Pydev/Projects/learning_site/templates/home.html",
+		"/C/devenv/Pydev/Projects/learning_site/courses/urls.py",
+		"/C/devenv/Pydev/Projects/learning_site/assets/css/layout.css",
+		"/C/devenv/Pydev/Projects/learning_site/courses/views.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/admin.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/models.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/__init__.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/apps.py",
+		"/C/devenv/Tools/SublimeText/Data/Packages/User/Gist.sublime-settings",
+		"/C/devenv/Pydev/Projects/learning_site/manage.py",
+		"/C/devenv/Pydev/Projects/learning_site/learning_site/wsgi.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/tests.py",
 		"/C/devenv/Tools/SublimeText/Data/Packages/Anaconda/Anaconda.sublime-settings",
 		"/C/devenv/Pydev/Projects/cerberus_proto/app/db.py",
 		"/C/devenv/Pydev/Projects/cerberus_db_prototype/prototype.py",
@@ -219,7 +308,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -255,113 +344,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "courses/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 283,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								283,
-								283
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "courses/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 271,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								243,
-								243
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "courses/urls.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 104,
+						"buffer_size": 108,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								75,
-								75
+								108,
+								108
 							]
 						],
 						"settings":
 						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -371,20 +373,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "learning_site/urls.py",
+					"buffer": 1,
+					"file": "courses/models.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 896,
+						"buffer_size": 527,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								821,
-								821
+								527,
+								527
 							]
 						],
 						"settings":
@@ -392,21 +394,22 @@
 							"auto_complete_triggers":
 							[
 								{
-									"characters": "<",
-									"selector": "text.html"
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
 								},
 								{
 									"characters": ".",
 									"selector": "source.python - string - constant.numeric"
 								}
 							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 6.4,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -414,11 +417,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 31.0
 	},
 	"input":
 	{
-		"height": 40.0
+		"height": 69.0
 	},
 	"layout":
 	{
@@ -455,7 +458,7 @@
 	"project": "learning site.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -469,12 +472,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\devenv\\Pydev\\Projects\\cerberus\\cerberusproject.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
