@@ -214,22 +214,12 @@
 	},
 	"expanded_folders":
 	[
-		"/C/devenv/Pydev/Projects/learning_site",
-		"/C/devenv/Pydev/Projects/learning_site/assets",
-		"/C/devenv/Pydev/Projects/learning_site/assets/css",
-		"/C/devenv/Pydev/Projects/learning_site/courses",
-		"/C/devenv/Pydev/Projects/learning_site/courses/migrations",
-		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/__pycache__",
-		"/C/devenv/Pydev/Projects/learning_site/courses/templates",
-		"/C/devenv/Pydev/Projects/learning_site/courses/templates/courses",
-		"/C/devenv/Pydev/Projects/learning_site/learning_site",
-		"/C/devenv/Pydev/Projects/learning_site/learning_site/__pycache__",
-		"/C/devenv/Pydev/Projects/learning_site/templates"
+		"/C/devenv/Pydev/Projects/learning_site"
 	],
 	"file_history":
 	[
-		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0001_initial.py",
 		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0002_step.py",
+		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0001_initial.py",
 		"/C/devenv/Pydev/Projects/learning_site/courses/templates/courses/course_list.html",
 		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0003_auto_20190505_2326.py",
 		"/C/devenv/Pydev/Projects/learning_site/courses/migrations/0002_auto_20190505_2321.py",
@@ -403,7 +393,9 @@
 								}
 							],
 							"git_gutter_is_enabled": false,
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 6.4,
@@ -472,16 +464,12 @@
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 0.0,
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"",
-				"C:\\devenv\\Pydev\\Projects\\cerberus\\cerberusproject.sublime-project"
-			]
 		],
-		"width": 380.0
+		"width": 0.0
 	},
 	"select_symbol":
 	{
